@@ -1,5 +1,3 @@
-# spring-data-homework
-
 # Spring Data Homework
 
 This repository contains links to the different parts of the homework projects.
